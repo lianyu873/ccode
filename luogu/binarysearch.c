@@ -1,3 +1,5 @@
+/*二分查找
+题目：P2249*/
 #include <stdio.h>
 long long chazhao(long long num[],long long n,long long a)    //接收数组用long long num[]
 {
